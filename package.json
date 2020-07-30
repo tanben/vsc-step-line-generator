@@ -1,7 +1,7 @@
 {
 	"name": "step-line-generator",
 	"displayName": "step-line-generator",
-	"publisher": "BenedictoTan",
+	"publisher": "TanBen",
 	"repository":"https://github.com/tanben/vsc-step-line-generator",
 	"description": "Step and Line number generator",
 	"version": "0.0.1",
