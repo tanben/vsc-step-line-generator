@@ -29,7 +29,7 @@ console.log ('LINE-{3} STEP-{3} Close your notebook');
 ```
 
 ## Demo
-![image](https://github.com/tanben/vsc-step-line-generator/resource/overview.gif)
+![image](./resource/overview.gif)
 
 
 ## Known Issues
