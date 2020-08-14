@@ -2,7 +2,15 @@
 
 This extension will search for string tempates **STEP-{}** and **LINE-{}** and generate a STEP counter and/or Line number. 
 
+## Installation
 
+[Visit Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=BenedictoTan.step-line-generator)
+
+Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
+
+```
+ext install BenedictoTan.step-line-generator
+```
 
 ## Features
 * Generate Line number 
