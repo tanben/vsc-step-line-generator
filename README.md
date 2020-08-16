@@ -1,10 +1,11 @@
 # step-line-generator README
+[![VisualStudio Marketplace](https://img.shields.io/badge/dynamic/json?label=VisualStudioMarketplace&query=version&url=https%3A%2F%2Fraw.githubusercontent.com%2Ftanben%2Fvsc-step-line-generator%2Fmaster%2Fpackage.json)](https://marketplace.visualstudio.com/items?itemName=BenedictoTan.step-line-generator)
+[![VSCodeVersion](https://img.shields.io/badge/dynamic/json?color=orange&label=VScode&query=engines.vscode&url=https%3A%2F%2Fraw.githubusercontent.com%2Ftanben%2Fvsc-step-line-generator%2Fmaster%2Fpackage.json)]()
 
 This extension will search for string tempates **STEP-{}** and **LINE-{}** and generate a STEP counter and/or Line number. 
 
 ## Installation
-
-[Visit Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=BenedictoTan.step-line-generator)
+ 
 
 Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
 
