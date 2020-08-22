@@ -12,6 +12,8 @@ Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter
 ```
 ext install BenedictoTan.step-line-generator
 ```
+## Run extension
+View > Command Palette > Generate STEP-{} and LINE-{} number
 
 ## Features
 * Generate Line number 
